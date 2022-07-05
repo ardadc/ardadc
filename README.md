@@ -1,0 +1,2 @@
+- Hi, I’m @ardadc
+- I’m currently learning Python, Java!
