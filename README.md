@@ -1,2 +1,2 @@
 - Hi, I’m @ardadc
-- I’m currently learning Python, Java!
+- I’m currently learning Java, JavaScript!
